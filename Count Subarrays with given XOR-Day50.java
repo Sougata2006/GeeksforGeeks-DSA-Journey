@@ -4,7 +4,7 @@ class Solution {
         int res = 0;
         
         HashMap <Integer,Integer> mp = new HashMap<>();
-        
+        //initialization---
         int prefXOR =0;
         
         for(int val : arr){
