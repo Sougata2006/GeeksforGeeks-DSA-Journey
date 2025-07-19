@@ -1,4 +1,3 @@
-
 class Solution {
     public List<String> camelCase(String[] arr, String pat) {
         
@@ -6,6 +5,7 @@ class Solution {
         for(String word :arr){
             int i=0,j=0;
             while(i<word.length()&&j<pat.length()){
+                //check
                 if(Character.isLowerCase(word.charAt(i))){
                     i++;
                 }
