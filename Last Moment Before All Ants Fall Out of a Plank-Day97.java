@@ -8,6 +8,7 @@ class Solution {
         for(int i=0;i<right.length;i++){
             res=Math.max(res,n-right[i]);
         }
+        //Give the result
         return res;
     }
 }
