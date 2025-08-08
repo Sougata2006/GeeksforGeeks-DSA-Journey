@@ -1,5 +1,4 @@
-
-class Solution {
+class gfg {
     boolean isBST(Node root) {
         
         Node curr = root;
