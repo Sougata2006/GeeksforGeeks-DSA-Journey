@@ -1,5 +1,4 @@
-
-class Solution {
+class gfg {
     void mirror(Node node) {
         
         if(node==null)
