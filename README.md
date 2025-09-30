@@ -1,5 +1,5 @@
 # GeeksforGeeks-DSA-Journey
-My solutions to DSA problems from GeeksforGeeks. This repository showcases my progress in solving various data structures and algorithms problems, with clean and well-documented code for each solution.
+My solutions to DSA problems from GeeksforGeeks. This repository showcases my progress in solving various data structures and algorithms problems, with clean code for each solution.
 
 Welcome to my DSA-GeeksforGeeks-Solutions repository!
 This repository contains my daily solutions to Data Structures and Algorithms (DSA) problems from GeeksforGeeks structured coding journey.
